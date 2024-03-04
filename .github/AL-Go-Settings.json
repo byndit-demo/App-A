@@ -8,5 +8,5 @@
   "enableCodeCop": true,
   "enableUICop": true,
   "useProjectDependencies": true,
-  "assignPremiumPlan": true,
+  "assignPremiumPlan": true
 }
